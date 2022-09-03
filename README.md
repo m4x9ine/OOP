@@ -1,3 +1,3 @@
 # OOP
 object-oriented programming - с# (university - сourse 2) <br>
-Доворовенко Максим ИСИТ 2-3
+Dvorovenko Maksim ISAT 2-3 / Доворовенко Максим ИСИТ 2-3
